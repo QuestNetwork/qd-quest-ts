@@ -6,7 +6,7 @@
 
 qDesk Quests is a module for qDesk. It's accessible across qDesk, you can use it with qDesk Messages and other qDesk modules.
 
-It's the core module of the Quest Network and allows to create and to join Quests. 
+It's the core module of the Quest Network and allows to create and to join quests. 
 
 If you are using [Quest OS](https://github.com/QuestNetwork/quest-os-js) in your applications, you can even use the underlying channels and data in your own application by booting with [Quest Engine JS](https://github.com/QuestNetwork/quest-engine-js).
 
