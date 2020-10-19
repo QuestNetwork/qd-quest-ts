@@ -8,7 +8,9 @@ qD Quests is a module for qDesk. It's accessible across qDesk, you can use it wi
 
 It's the core module of the Quest Network and allows to create and to join quests. 
 
-qD Quests offers the ability to share and join quests shared by peers on the network. qD Quests is connected to [qDesk Social](https://github.com/QuestNetwork/qd-social-js) and uses the station supplied by qDesk Social. qDesk Quest and qDesk Social are modules for [qDesk](https://github.com/QuestNetwork/qDesk) and it's built on [Quest OS](https://github.com/QuestNetwork/quest-os-js) which makes use of the [Interplanetary Filesystem](https://ipfs.io), [IPFS GossipSub](https://blog.ipfs.io/2020-05-20-gossipsub-v1.1/), [IPFS DAGs](https://docs.ipfs.io/concepts/merkle-dag/), and [qDesk](https://github.com/QuestNetwork/qDesk), our example app based on [Angular10](https://angular.io/).
+qD Quests offers the ability to share and join quests shared by peers on the network. qD Quests is connected to [qDesk Social](https://github.com/QuestNetwork/qd-social-js) and uses the station supplied by qDesk Social. 
+
+qDesk Quest and qDesk Social are modules for [qDesk](https://github.com/QuestNetwork/qDesk) and it's built on [Quest OS](https://github.com/QuestNetwork/quest-os-js) which makes use of the [Interplanetary Filesystem](https://ipfs.io), [IPFS GossipSub](https://blog.ipfs.io/2020-05-20-gossipsub-v1.1/), [IPFS DAGs](https://docs.ipfs.io/concepts/merkle-dag/), and [qDesk](https://github.com/QuestNetwork/qDesk), our example app based on [Angular10](https://angular.io/).
 
 [qDesk](https://github.com/QuestNetwork/qDesk) works in the browser, as an Electron on Windows, Mac and Linux and Android using Cordova.
 
